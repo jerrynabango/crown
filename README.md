@@ -5,6 +5,7 @@ Jerry Nabango
 # Description.
 The application is just a User Interface of how the gate pass will look like. The main aim is to reduce the paper work at the gate and to enable the security
 officers to have an easy task and also to enable them to have good idea about the technology world.
+
 ## Technologies used:
 * HTML
 * css
@@ -18,9 +19,10 @@ The webpage can be viewed though the following browsers:
 
 ## Live link to site:
 https://jerrynabango.github.io/crown/
-## Support and contact details:
 
+## Support and contact details:
 Incase of any enquiries contact me through email:jerrynabango9@gmail.com
+
 ## LICENSE.
 ## TERMS AND CONDITIONS:
 
