@@ -21,9 +21,9 @@ https://jerrynabango.github.io/crown/
 ## Support and contact details:
 
 Incase of any enquiries contact me through email:jerrynabango9@gmail.com
-##LICENSE.
-##TERMS AND CONDITIONS:
+## LICENSE.
+## TERMS AND CONDITIONS:
 
 1.Permission is hereby granted to any user obtaining a copy of this software "CROWN GATE PASS" and associated documentation files to deal in the Software without any restriction, including without limitations the rights to use,copy,modify,publish,distribute,sublicense,and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so freely without any restrictions.THANK YOU FOR USING THE YUMMY PIZZA INN APP.
 
-## license Copyright &copy;202.All rights reserved.
+## license Copyright &copy;2022.All rights reserved.
