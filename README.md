@@ -17,7 +17,7 @@ The webpage can be viewed though the following browsers:
 * Opera Mini
 
 ## Live link to site:
-https://github.com/jerrynabango/crown
+https://jerrynabango.github.io/crown/
 ## Support and contact details:
 
 Incase of any enquiries contact me through email:jerrynabango9@gmail.com
